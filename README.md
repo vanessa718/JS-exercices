@@ -9,4 +9,4 @@
 ## Consignes
 
 * Forké le repo dans votre répertoire.
-* Des que vous validé une étape, ajoutez là et commitez là.
+* Des que vous validez une étape, ajoutez là et commitez là.
