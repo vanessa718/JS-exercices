@@ -1,4 +1,4 @@
-#JS-exercice
+# JS-exercice
 
 ## Objectifs 
 
