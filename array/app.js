@@ -23,5 +23,17 @@ console.log(mois[i]);
 }
 
 //exercice 8
-array.push('courgette');
+array.push('Courgette');
 console.log(array);
+
+//exercie 9
+array.splice(4, 0,'Citron');
+console.log(array);
+
+//exercice 10
+array.splice (1, 1);
+console.log (array);
+
+//exercice 11
+array.splice (2, 0,'Poire');
+console.log (array);
